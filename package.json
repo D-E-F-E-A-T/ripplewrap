@@ -1,0 +1,26 @@
+{
+  "name": "ripplewrap",
+  "version": "1.0.0",
+  "description": "The #1 Ripple API wrapper.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kashima-dot-com/ripplewrap.git"
+  },
+  "keywords": [
+    "ripple",
+    "osu",
+    "api",
+    "wrapper",
+    "api-wrapper"
+  ],
+  "author": "kashima-dot-com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kashima-dot-com/ripplewrap/issues"
+  },
+  "homepage": "https://github.com/kashima-dot-com/ripplewrap#readme"
+}

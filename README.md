@@ -9,4 +9,6 @@ The #1 Ripple API wrapper.
 # Install
 `npm i ripplewrap`
 # Docs
-https://kashima-dot-com.github.io/docs/
+You can see the folder right? -_-
+# TODO
+1. Add websocket support (for events, etc)
