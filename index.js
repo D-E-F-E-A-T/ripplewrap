@@ -13,5 +13,6 @@ module.exports = class {
     this.ripple = ripple(obj)
     this.bancho = bancho(obj)
     this.cheesegull = cheesegull(obj)
+    this.types = require('./endpoints').types
   }
 }
