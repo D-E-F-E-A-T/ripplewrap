@@ -21,13 +21,13 @@ module.exports = {
     }
   },
   bancho: {
-    isOnline: '/api/v1/isOnline',
-    onlineUsers: '/api/v1/onlineUsers',
-    verifiedStatus: '/api/v1/verifiedStatus'
+    isOnline: '/isOnline',
+    onlineUsers: '/onlineUsers',
+    verifiedStatus: '/verifiedStatus'
   },
   cheesegull: {
-    getBeatmap: '/api/b/',
-    set: '/api/s/'
+    getBeatmap: '/b/',
+    set: '/s/'
   },
   types: {
     genres: {
