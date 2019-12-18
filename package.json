@@ -1,6 +1,6 @@
 {
   "name": "ripplewrap",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "The #1 Ripple API wrapper.",
   "main": "index.js",
   "scripts": {
