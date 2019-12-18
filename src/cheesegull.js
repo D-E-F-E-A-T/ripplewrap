@@ -14,5 +14,5 @@ module.exports = (obq) => {
     }
   })
 
-  return obq
+  return obj
 }
